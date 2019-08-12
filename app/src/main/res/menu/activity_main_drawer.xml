@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_thoi_su"
+        android:icon="@drawable/ic_thoi_su"
+        android:title="@string/thoi_su" />
+    <item
+        android:id="@+id/nav_startup"
+        android:icon="@drawable/ic_goc_nhin"
+        android:title="@string/startup"/>
+    <item
+        android:id="@+id/nav_the_gioi"
+        android:icon="@drawable/ic_the_gioi"
+        android:title="@string/the_gioi" />
+    <item
+        android:id="@+id/nav_kinh_doanh"
+        android:icon="@drawable/ic_kinh_doanh"
+        android:title="@string/kinh_doanh" />
+    <item
+        android:id="@+id/nav_giai_tri"
+        android:icon="@drawable/ic_giai_tri"
+        android:title="@string/giai_tri" />
+    <item
+        android:id="@+id/nav_the_thao"
+        android:icon="@drawable/ic_the_thao"
+        android:title="@string/the_thao" />
+    <item
+        android:id="@+id/nav_phap_luat"
+        android:icon="@drawable/ic_phap_luat"
+        android:title="@string/phap_luat" />
+    <item
+        android:id="@+id/nav_giao_duc"
+        android:icon="@drawable/ic_giao_duc"
+        android:title="@string/giao_duc" />
+    <item
+        android:id="@+id/nav_suc_khoe"
+        android:icon="@drawable/ic_suc_khoe"
+        android:title="@string/suc_khoe" />
+    <item
+        android:id="@+id/nav_doi_song"
+        android:icon="@drawable/ic_doi_song"
+        android:title="@string/doi_song" />
+    <item
+        android:id="@+id/nav_du_lich"
+        android:icon="@drawable/ic_du_lich"
+        android:title="@string/du_lich" />
+    <item
+        android:id="@+id/nav_khoa_hoc"
+        android:icon="@drawable/ic_khoa_hoc"
+        android:title="@string/khoa_hoc" />
+    <item
+        android:id="@+id/nav_so_hoa"
+        android:icon="@drawable/ic_so_hoa"
+        android:title="@string/so_hoa" />
+    <item
+        android:id="@+id/nav_xe"
+        android:icon="@drawable/ic_xe"
+        android:title="@string/xe" />
+    <item
+        android:id="@+id/nav_y_kien"
+        android:icon="@drawable/ic_y_kien"
+        android:title="@string/y_kien" />
+    <item
+        android:id="@+id/nav_tam_su"
+        android:icon="@drawable/ic_tam_su"
+        android:title="@string/tam_su" />
+    <item
+        android:id="@+id/nav_cuoi"
+        android:icon="@drawable/ic_cuoi"
+        android:title="@string/cuoi" />
+
+</menu>

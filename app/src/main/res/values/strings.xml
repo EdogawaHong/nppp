@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">newspaper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">VnExpress</string>
+    <string name="nav_header_subtitle">https://vnexpress.net</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="thoi_su">Thời sự</string>
+    <string name="startup">startup</string>
+    <string name="the_gioi">Thế giới</string>
+    <string name="kinh_doanh">Kinh doanh</string>
+    <string name="giai_tri">Gỉai trí</string>
+    <string name="the_thao">Thể thao</string>
+    <string name="phap_luat">Pháp luật</string>
+    <string name="giao_duc">Gíao dục</string>
+    <string name="suc_khoe">Sức khỏe</string>
+    <string name="doi_song">Đời sống</string>
+    <string name="du_lich">Du lịch</string>
+    <string name="khoa_hoc">Khoa học</string>
+    <string name="so_hoa">Số hóa</string>
+    <string name="xe">Xe</string>
+    <string name="y_kien">Ý kiến</string>
+    <string name="tam_su">Tâm sự</string>
+    <string name="cuoi">Cười</string>
+</resources>
